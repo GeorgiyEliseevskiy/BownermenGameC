@@ -1,0 +1,12 @@
+C:\Users\dimne\Projects\BowmenGame\BowmenGame\obj\Debug\BowmenGame.csproj.AssemblyReference.cache
+C:\Users\dimne\Projects\BowmenGame\BowmenGame\obj\Debug\BowmenGame.Properties.Resources.resources
+C:\Users\dimne\Projects\BowmenGame\BowmenGame\obj\Debug\BowmenGame.csproj.GenerateResource.cache
+C:\Users\dimne\Projects\BowmenGame\BowmenGame\obj\Debug\BowmenGame.csproj.CoreCompileInputs.cache
+C:\Users\dimne\Projects\BowmenGame\BowmenGame\bin\Debug\BowmenGame.exe.config
+C:\Users\dimne\Projects\BowmenGame\BowmenGame\bin\Debug\BowmenGame.exe
+C:\Users\dimne\Projects\BowmenGame\BowmenGame\bin\Debug\BowmenGame.pdb
+C:\Users\dimne\Projects\BowmenGame\BowmenGame\obj\Debug\BowmenGame.BattlefieldForm.resources
+C:\Users\dimne\Projects\BowmenGame\BowmenGame\obj\Debug\BowmenGame.exe
+C:\Users\dimne\Projects\BowmenGame\BowmenGame\obj\Debug\BowmenGame.pdb
+C:\Users\Valcorian\Desktop\BowmenGame\BowmenGame\obj\Debug\BowmenGame.exe
+C:\Users\Valcorian\Desktop\BowmenGame\BowmenGame\obj\Debug\BowmenGame.pdb
